@@ -10,7 +10,7 @@ Länk till Trello projekt : https://trello.com/invite/b/mMZSxOCf/ATTI1b7072a753f
 
 **Sammanfattande upplägg:**
 
-<p>- I Trello ska alla grundläggande funktioner för projektet sammanfattas i BACKLOG kortet, de ska också delas upp i svårhetsgrad/prioritering/sluttid.</p>
+<p>- I Trello ska alla user stories för projektet sammanfattas i BACKLOG kortet, de ska också delas upp i svårhetsgrad/prioritering/sluttid.</p>
 <p>- Stories (dvs *Som [roll] vill jag [behov] för att [syfte]* metoden)</p>
 skall läggas in i SPRINTLOG'en som beskriver en större bild som användare hur funktioner skall funka i porjektet.
 <p>- SPRINTMÅL ska få tilldelat kort från BACKLOG, vad som ska vara klart den sprinten (1vecka jobb).</p>
@@ -25,3 +25,4 @@ Alla BACKLOG kort ska ha svårighetsgrad satta, 1p = 1 arbetsdag.
 **Updates:**
 
 - Trello & GitHub projekt startat med nödvändiga kort klara.
+- User stories har blivit tillagda i BACKLOG.
