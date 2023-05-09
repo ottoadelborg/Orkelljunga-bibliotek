@@ -26,4 +26,5 @@ Alla BACKLOG kort ska ha svårighetsgrad satta, 1p = 1 arbetsdag.
 
 - Trello & GitHub projekt startat med nödvändiga kort klara.
 - User stories har blivit tillagda i BACKLOG.
+- User stories har blivit uppdaterade & poängsatta.
 - Veckans sprintlog har blivit uppdaterad.
