@@ -31,3 +31,4 @@ Alla BACKLOG kort ska ha svårighetsgrad satta, 1p = 1 arbetsdag.
 - Fler user stories har lagts till.
 - Alla user stories har blivit omplacerade i prio-ordning.
 - User stories har blivit tallagda i första sprinten.
+- Definition of done har blivi tillagd.
