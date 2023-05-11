@@ -28,3 +28,5 @@ Alla BACKLOG kort ska ha svårighetsgrad satta, 1p = 1 arbetsdag.
 - User stories har blivit tillagda i BACKLOG.
 - User stories har blivit uppdaterade & poängsatta.
 - Veckans sprintlog har blivit uppdaterad.
+- Fler user stories har lagts till.
+- 
